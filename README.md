@@ -20,6 +20,8 @@ What i have done:
 [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 
 Setup: run ``npm start``` to start the development server
+
+
 ##Website 
 
-[Travel Buddy[(https://travelbuddynow.netlify.app/)
+[Travel Buddy](https://travelbuddynow.netlify.app/)
